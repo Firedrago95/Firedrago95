@@ -1,4 +1,8 @@
-## Hi there 👋
+
+# Dont-copy
+
+insight - traffic 들어가면 어떤 코드 조회했고 몇번 봤는지 다 뜹니다.<br>
+미션은 자기 힘으로 해결해야 합니다.
 
 <!--
 **Firedrago95/Firedrago95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
