@@ -1,8 +1,3 @@
-# 미션은_스스로_해결하자
-깃허브는 traffic 옵션에서 외부 방문자가 언제, 어떤 코드를 몇번 확인했는지 통계정보로 확인할수 있다.<br>
-<br>
-스스로의 힘으로 미션을 해결할때 진정한 성장이 가능할 것이다.
-
 <!--
 **Firedrago95/Firedrago95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
